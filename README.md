@@ -410,6 +410,6 @@ WatchDog
 
 <!-- 文件 -->
 [1]: https://v.youku.com/v_show/id_XNDIyMTU0MjA2OA==.html?spm=a2hzp.8253876.0.0&f=52199188
-[2]: https://github.com/zhulang/WatchDog_wiki/tree/master/WatchDogSDK.framework
+[2]: https://github.com/zhulang/WatchDog_wiki/tree/master/WatchDogSDK/
 <!-- 指令 -->
 
