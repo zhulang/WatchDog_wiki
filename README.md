@@ -2,6 +2,16 @@
 WatchDog
 ===
 ----
+## 链接
+  
+   [使用视频连接][1] 
+
+   [SDK链接][2]
+   
+   [Demo][3]
+   
+   APP链接:敬请期待
+   
 ## 项目介绍
 * WatchDog可以用来做什么?
 
@@ -49,14 +59,6 @@ WatchDog
 	
 	6.WatchDog只支持部分蓝牙扫描枪相连接，目前已知的品牌有科密。
 	
-## 链接
-
-  
-   [使用视频连接][1] 
-
-   [SDK链接][2]
-   
-   APP链接:敬请期待
 	
 ## 开发者文档
 
@@ -411,5 +413,6 @@ WatchDog
 <!-- 文件 -->
 [1]: https://v.youku.com/v_show/id_XNDIyMTU0MjA2OA==.html?spm=a2hzp.8253876.0.0&f=52199188
 [2]: https://github.com/zhulang/WatchDog_wiki/tree/master/WatchDogSDK/
+[3]: https://github.com/zhulang/ACBScanner
 <!-- 指令 -->
 
