@@ -10,7 +10,7 @@ WatchDog
    
    [Demo][3]
    
-   APP链接:敬请期待
+   [APP链接][4]
    
 ## 项目介绍
 * WatchDog可以用来做什么?
@@ -414,5 +414,6 @@ WatchDog
 [1]: https://v.youku.com/v_show/id_XNDIyMTU0MjA2OA==.html?spm=a2hzp.8253876.0.0&f=52199188
 [2]: https://github.com/zhulang/WatchDog_wiki/tree/master/WatchDogSDK/
 [3]: https://github.com/zhulang/ACBScanner
+[4]: https://apps.apple.com/cn/app/watchdog-scanner/id1467599850
 <!-- 指令 -->
 
